@@ -1,0 +1,11 @@
+absolute : layer by layer
+margin: outterspace harshsareen03
+color theory:- complementry and supplementry
+focous:- Just like hover. it effects on text only. not image.
+Git:- It is version control
+    unstage
+    stage
+    com.air
+    inner html outter html
+    server:- server
+framework: already predefined
