@@ -32,12 +32,6 @@ console.log(typeof e,e)
 
 
 
-
-
-
-
-
-
 // using arrow functions
 // subtraction
     
